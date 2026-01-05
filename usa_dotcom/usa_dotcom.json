@@ -1,17 +1,27 @@
 [
     {
-        "source_url": "refs/heads/main/WM_Canada_Attr.csv",
-        "sink_folder": "Canada_Print_Analysis",
-        "sink_file": "WM_Canada_Attr.csv"
+        "source_url": "refs/heads/main/usa_dotcom/jesta_upc.csv",
+        "sink_folder": "USA_Dotcom_Analysis",
+        "sink_file": "jesta_upc.csv"
     },
     {
-        "source_url": "refs/heads/main/canada prints.csv",
-        "sink_folder": "Canada_Print_Analysis",
-        "sink_file": "canada prints.csv"
+        "source_url": "refs/heads/main/usa_dotcom/retail_link.csv",
+        "sink_folder": "USA_Dotcom_Analysis",
+        "sink_file": "retail_link.csv"
     },
     {
-        "source_url": "refs/heads/main/dim_store.csv",
-        "sink_folder": "Canada_Print_Analysis",
-        "sink_file": "dim_store.csv"
+        "source_url": "refs/heads/main/usa_dotcom/upc_url.csv",
+        "sink_folder": "USA_Dotcom_Analysis",
+        "sink_file": "upc_url.csv"
+    },
+    {
+        "source_url": "refs/heads/main/usa_dotcom/usa_dotcom_attribute.csv",
+        "sink_folder": "USA_Dotcom_Analysis",
+        "sink_file": "usa_dotcom_attribute.csv"
+    },
+    {
+        "source_url": "refs/heads/main/usa_dotcom/wm_usa_inventory.csv",
+        "sink_folder": "USA_Dotcom_Analysis",
+        "sink_file": "wm_usa_inventory.csv"
     }
 ]
