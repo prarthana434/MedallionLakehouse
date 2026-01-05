@@ -1,0 +1,17 @@
+[
+    {
+        "source_url": "refs/heads/main/WM_Canada_Attr.csv",
+        "sink_folder": "Canada_Print_Analysis",
+        "sink_file": "WM_Canada_Attr.csv"
+    },
+    {
+        "source_url": "refs/heads/main/canada prints.csv",
+        "sink_folder": "Canada_Print_Analysis",
+        "sink_file": "canada prints.csv"
+    },
+    {
+        "source_url": "refs/heads/main/dim_store.csv",
+        "sink_folder": "Canada_Print_Analysis",
+        "sink_file": "dim_store.csv"
+    }
+]
